@@ -1,6 +1,7 @@
 # Oct 20
 
 library(tidyverse)
+# here is a comment to myself
 
 n = 17
 K = 10
